@@ -339,12 +339,15 @@ a {
     font-weight: bolder;
     font-style: normal;
 }
+
     .nav-links li {
         margin-right: 20px;
     }
+
         .nav-links li:last-child {
             margin-right: 0;
         }
+
     .nav-links a {
         text-decoration: none;
         color: #ffffff;
@@ -354,7 +357,7 @@ a {
         justify-content: space-between;
         font-size: 20px;
     }
+
         .nav-links a:hover {
             color: #ff3131; /* Change color on hover */
         }
-
